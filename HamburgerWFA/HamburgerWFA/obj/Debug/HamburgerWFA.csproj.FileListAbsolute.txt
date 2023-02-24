@@ -1,0 +1,14 @@
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\bin\Debug\HamburgerWFA.exe.config
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\bin\Debug\HamburgerWFA.exe
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\bin\Debug\HamburgerWFA.pdb
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.Form1.resources
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.exe
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.pdb
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.SiparisOlustur.resources
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.MenuBilgi.resources
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.EkstraMalzeme.resources
+C:\Users\Ali Ozan\source\repos\HamburgerWFA\HamburgerWFA\obj\Debug\HamburgerWFA.Ciro.resources
